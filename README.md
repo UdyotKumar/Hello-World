@@ -1,2 +1,3 @@
 # Hello-World
-first repository
+Hi Homo-sapiens,
+Udyot here and I love Data.
